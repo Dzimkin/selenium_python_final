@@ -15,3 +15,5 @@ main_page.py - тут мы храним методы по конкретной �
 создаём в функции переменную page, которой передаём браузер из base_page.py(класс BasePage) и линк из шага №1
 следом говорим "page, откройся", но методом из base_page.py(класс BasePage)
 добавляем проверки, которые создавали методами в main_page.py
+<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="guzich" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/guzich?trk=profile-badge">Dmitry G.</a></div>
+              
